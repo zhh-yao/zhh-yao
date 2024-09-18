@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Boring facts about me 👋
+- Main quest: Life Observer (equipped with Sony A6000 + E 70-350mm)
+- Current side quest: A growing Bioinformatician (equipped with MAC OS)
+- 💻 I’m a Postdoc working at Oslo Unversity Hospital, Norway 🇳🇴
+- 🏡 My forever hometown is Xuancheng, a small but warm city in the southeast of China 🇨🇳
 <!--
 **zhh-yao/zhh-yao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
