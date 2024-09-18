@@ -1,8 +1,9 @@
-## Boring facts about me 👋
+## Boring facts about me 🕳
 - Main quest: Life Observer (equipped with Sony A6000 + E 70-350mm)
-- Current side quest: A growing Bioinformatician (equipped with MAC OS)
-- 💻 I’m a Postdoc working at Oslo Unversity Hospital, Norway 🇳🇴
-- 🏡 My forever hometown is Xuancheng, a small but warm city in the southeast of China 🇨🇳
+- Side quest: A growing Postdoc current at Oslo Unversity Hospital 🇳🇴
+- Forever home: Xuancheng, a small but warm city in the southeast of China 🇨🇳
+- To myself: Don't waste time and love 切莫辜负时光与爱
+  
 <!--
 **zhh-yao/zhh-yao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
